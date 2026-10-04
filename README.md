@@ -8,7 +8,7 @@
   [![Status](https://img.shields.io/badge/Status-W%20trakcie%20tworzenia-7B1FA2?style=for-the-badge&logo=git)](https://github.com)
   [![Następca](https://img.shields.io/badge/Nast%C4%99pca-DarkMC%20Launcher-6A0DAD?style=for-the-badge)](https://github.com)
   [![Minecraft](https://img.shields.io/badge/Minecraft-1.18.2%20--%20Najnowsze-8A2BE2?style=for-the-badge&logo=minecraft)](https://minecraft.net)
-  [![Discord](https://img.shields.io/badge/Discord-Do%C5%82%C4%85cz%20do%20nas-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/twojlink)
+  [![Discord](https://img.shields.io/badge/Discord-Do%C5%82%C4%85cz%20do%20nas-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dc.gg/NEXUSCLIENT)
 
 </div>
 
@@ -55,7 +55,7 @@ Informacje o postępach prac oraz zapowiedzi testów są publikowane na serwerze
 
 <div align="center">
 
-[![Dołącz do Discorda](https://img.shields.io/badge/Discord-Serwer%20Spo%C2%82eczno%C5%9Bci-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/twojlink)
+[![Dołącz do Discorda](https://img.shields.io/badge/Discord-Serwer%20Spol%C2%82eczno%C5%9Bci-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dc.gg/NEXUSCLIENT)
 
 </div>
 

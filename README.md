@@ -1,13 +1,13 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/800x200/6B46C1/ffffff?text=NEXUS+CLIENT" alt="Banner Nexus Client" width="100%" />
+  <img src="./assets/main-banner.png" alt="Banner Nexus Client" width="100%" />
 
   # Nexus Client
   ### Następca DarkMC Launcher
 
   [![Status](https://img.shields.io/badge/Status-W%20trakcie%20tworzenia-7B1FA2?style=for-the-badge&logo=git)](https://github.com)
   [![Następca](https://img.shields.io/badge/Nast%C4%99pca-DarkMC%20Launcher-6A0DAD?style=for-the-badge)](https://github.com)
-  [![Minecraft](https://img.shields.io/badge/Minecraft-1.18.2%20--%2023.3-8A2BE2?style=for-the-badge&logo=minecraft)](https://minecraft.net)
+  [![Minecraft](https://img.shields.io/badge/Minecraft-1.18.2%20--%20Najnowsze-8A2BE2?style=for-the-badge&logo=minecraft)](https://minecraft.net)
   [![Discord](https://img.shields.io/badge/Discord-Do%C5%82%C4%85cz%20do%20nas-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/twojlink)
 
 </div>
@@ -26,13 +26,13 @@ Projekt znajduje się obecnie w fazie rozwoju. Trwają prace nad podstawowymi mo
 
 <div align="center">
 
-<img src="https://via.placeholder.com/600x350/5B21B6/ffffff?text=Miejsce+na+baner+1" width="48%" alt="Baner 1"/>
-<img src="https://via.placeholder.com/600x350/5B21B6/ffffff?text=Miejsce+na+baner+2" width="48%" alt="Baner 2"/>
+<img src="./assets/modules/banner-1.png" width="48%" alt="Moduł 1"/>
+<img src="./assets/modules/banner-2.png" width="48%" alt="Moduł 2"/>
 
 <br/><br/>
 
-<img src="https://via.placeholder.com/600x350/5B21B6/ffffff?text=Miejsce+na+baner+3" width="48%" alt="Baner 3"/>
-<img src="https://via.placeholder.com/600x350/5B21B6/ffffff?text=Miejsce+na+baner+4" width="48%" alt="Baner 4"/>
+<img src="./assets/modules/banner-3.png" width="48%" alt="Moduł 3"/>
+<img src="./assets/modules/banner-4.png" width="48%" alt="Moduł 4"/>
 
 </div>
 

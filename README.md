@@ -3,7 +3,7 @@
   <img src="./assets/main-banner.png" alt="Banner Nexus Client" width="100%" />
 
   # Nexus Client
-  ### Nastepca DarkMC Launcher
+  ### Następca DarkMC Launcher
 
   [![Status](https://img.shields.io/badge/Status-W_trakcie_tworzenia-7B1FA2?style=for-the-badge&logo=git)](./tasks.md)
   [![Minecraft](https://img.shields.io/badge/Minecraft-1.18.2_--_Najnowsze-8A2BE2?style=for-the-badge&logo=minecraft)](https://minecraft.net)
@@ -20,13 +20,18 @@
 
 </div>
 
+---
 
+### Roadmapa & Planowane Nowości
+> **Zobacz, co autor aktualnie planuje dodać i nad czym pracuje:**  
+
+[![GitHub Project](https://img.shields.io/badge/GitHub_Project-Planowane_Funkcje_&_Roadmapa-2DBA4E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/MARCELOWY/projects/5)
 
 ## O Projekcie
 
-Nexus Client jest tworzonym od podstaw oprogramowaniem do uruchamiania gry Minecraft, bedacym bezposrednim nastepca DarkMC Launcher. Celem projektu jest zapewnienie stabilnego dzialania, uporzadkowanego interfejsu oraz wsparcia dla aktualnych wersji gry i silnikow modyfikacji.
+Nexus Client jest tworzonym od podstaw oprogramowaniem do uruchamiania gry Minecraft, będącym bezpośrednim następcą DarkMC Launcher. Celem projektu jest zapewnienie stabilnego działania, uporządkowanego interfejsu oraz wsparcia dla aktualnych wersji gry i silników modyfikacji.
 
-Projekt znajduje sie obecnie w fazie rozwoju. Trwaja prace nad podstawowymi modulami aplikacji oraz testy wewnetrzne.
+Projekt znajduje się obecnie w fazie rozwoju. Trwają prace nad podstawowymi modułami aplikacji oraz testy wewnętrzne.
 
 
 
@@ -34,29 +39,29 @@ Projekt znajduje sie obecnie w fazie rozwoju. Trwaja prace nad podstawowymi modu
 
 <div align="center">
 
-### Pierwszy podglad interfejsu (Beta)
+### Pierwszy podgląd interfejsu (Beta)
 <img src="./assets/screenshot/1.png" alt="Nexus Client Beta Screenshot" width="90%" style="border-radius: 8px;" />
 
 </div>
 
 ## Planowane Funkcje
 
-- Obsluga wersji gry od 1.18.2 do najnowszych wydan.
-- Wsparcie dla silnikow Forge oraz Fabric.
-- Wbudowana obsluga i dostepnosc paczek modow.
-- Obsluga autoryzacji kont Microsoft oraz trybu offline.
-- Automatyczne dostosowywanie przydzialu pamieci RAM i parametrow srodowiska Java.
-- Narzedzie ulatwiajace migracje profilow i ustawien z DarkMC Launcher.
+- Obsługa wersji gry od 1.18.2 do najnowszych wydań.
+- Wsparcie dla silników Forge oraz Fabric.
+- Wbudowana obsługa i dostępność paczek modów.
+- Obsługa autoryzacji kont Microsoft oraz trybu offline.
+- Automatyczne dostosowywanie przydziału pamięci RAM i parametrów środowiska Java.
+- Narzędzie ułatwiające migrację profilów i ustawień z DarkMC Launcher.
 
 ---
 
-## Spolecznosc
+## Społeczność
 
-Informacje o postepach prac oraz zapowiedzi testow sa publikowane na serwerze Discord.
+Informacje o postępach prac oraz zapowiedzi testów są publikowane na serwerze Discord.
 
 <div align="center">
 
-[![Dolacz do Discorda](https://img.shields.io/badge/Discord-Serwer_Spolecznosci-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dc.gg/nexusclient)
+[![Dołącz do Discorda](https://img.shields.io/badge/Discord-Serwer_Społeczności-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dc.gg/nexusclient)
 
 </div>
 
@@ -64,6 +69,6 @@ Informacje o postepach prac oraz zapowiedzi testow sa publikowane na serwerze Di
 
 <div align="center">
 
-*Nexus Client – Zastepca DarkMC Launcher.*
+*Nexus Client – Zastępca DarkMC Launcher.*
 
 </div>

@@ -71,4 +71,5 @@ Informacje o postępach prac oraz zapowiedzi testów są publikowane na serwerze
 
 *Nexus Client – Zastępca DarkMC Launcher.*
 
+``© 2026 Nexus Client. Wszystkie prawa zastrzeżone. Projekt nie jest powiązany z Mojang Studios / Microsoft.``
 </div>

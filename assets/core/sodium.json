@@ -1,0 +1,61 @@
+{
+  "version": "1.0.0",
+  "description": "Zestawy kompatybilności ekosystemu Sodium dla Nexus Client",
+  "matrix": {
+    "1.21.1": {
+      "sodium": {
+        "version": "0.6.6",
+        "slug": "sodium"
+      },
+      "iris": {
+        "version": "1.8.8",
+        "slug": "iris"
+      },
+      "sodium-extra": {
+        "version": "0.6.1",
+        "slug": "sodium-extra"
+      },
+      "reeses-sodium-options": {
+        "compatible": false,
+        "reason": "Niekompatybilne z Sodium 0.6+ na MC 1.21.1 (nowe wbudowane GUI)"
+      },
+      "indium": {
+        "version": "1.0.35",
+        "slug": "indium"
+      }
+    },
+    "1.20.1": {
+      "sodium": {
+        "version": "0.5.11",
+        "slug": "sodium"
+      },
+      "iris": {
+        "version": "1.7.5",
+        "slug": "iris"
+      },
+      "sodium-extra": {
+        "version": "0.5.4",
+        "slug": "sodium-extra"
+      },
+      "reeses-sodium-options": {
+        "version": "1.7.0",
+        "slug": "reeses-sodium-options",
+        "compatible": true
+      },
+      "indium": {
+        "version": "1.0.34",
+        "slug": "indium"
+      }
+    },
+    "1.19.4": {
+      "sodium": { "version": "0.4.10", "slug": "sodium" },
+      "iris": { "version": "1.6.4", "slug": "iris" },
+      "sodium-extra": { "version": "0.4.18", "slug": "sodium-extra" },
+      "reeses-sodium-options": { "version": "1.5.1", "slug": "reeses-sodium-options", "compatible": true }
+    },
+    "1.16.5": {
+      "sodium": { "version": "0.2.0", "slug": "sodium" },
+      "iris": { "version": "1.5.2", "slug": "iris" }
+    }
+  }
+}

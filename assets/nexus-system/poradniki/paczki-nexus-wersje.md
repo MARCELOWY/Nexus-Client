@@ -14,6 +14,6 @@
 * **Dla kogo?** Dla graczy, którzy wolą sami skompletować swój ulubiony zestaw modów lub chcą grać na stworzonej przez siebie paczce i udostępnić ją znajomym.
 
 ---
-![Różnice między wersjami Nexus a paczkami w Nexus Client](/assets/poradniki/paczki-nexus.gif)
+![Różnice między wersjami Nexus a paczkami w Nexus Client](/assets/poradniki/paczka-nexus.gif)
 
 [[[Czym różnią się wersje Nexus od paczek w Nexus Client?,Które wersje w Nexus Client mają automatyczną instalację modów?,Dla kogo przeznaczone są paczki własne w Nexus Client?]]]

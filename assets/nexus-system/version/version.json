@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated_at": "2026-10-04",
+  "version": 2,
+  "updated_at": "2026-11-14",
   "modrinth_projects": [
     "cloth-config",
     "entityculling",
@@ -11,7 +11,6 @@
     "entity-model-features",
     "dynamic-fps",
     "bettergrassify",
-    "perspektive",
     "zoomify",
     "smooth-swapping",
     "vectorientation",

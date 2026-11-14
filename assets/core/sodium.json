@@ -1,6 +1,5 @@
 {
-  "version": "1.0.0",
-  "description": "Zestawy kompatybilności ekosystemu Sodium dla Nexus Client",
+  "version": "1.1.0",
   "matrix": {
     "1.21.1": {
       "sodium": {
@@ -39,8 +38,7 @@
       },
       "reeses-sodium-options": {
         "version": "1.7.0",
-        "slug": "reeses-sodium-options",
-        "compatible": true
+        "slug": "reeses-sodium-options"
       },
       "indium": {
         "version": "1.0.34",
@@ -48,14 +46,42 @@
       }
     },
     "1.19.4": {
-      "sodium": { "version": "0.4.10", "slug": "sodium" },
-      "iris": { "version": "1.6.4", "slug": "iris" },
-      "sodium-extra": { "version": "0.4.18", "slug": "sodium-extra" },
-      "reeses-sodium-options": { "version": "1.5.1", "slug": "reeses-sodium-options", "compatible": true }
+      "sodium": {
+        "version": "0.4.10",
+        "slug": "sodium"
+      },
+      "iris": {
+        "version": "1.6.4",
+        "slug": "iris"
+      },
+      "sodium-extra": {
+        "version": "0.4.18",
+        "slug": "sodium-extra"
+      },
+      "reeses-sodium-options": {
+        "version": "1.5.1",
+        "slug": "reeses-sodium-options"
+      }
     },
     "1.16.5": {
-      "sodium": { "version": "0.2.0", "slug": "sodium" },
-      "iris": { "version": "1.5.2", "slug": "iris" }
+      "sodium": {
+        "version": "0.2.0",
+        "slug": "sodium"
+      },
+      "iris": {
+        "version": "1.5.2",
+        "slug": "iris"
+      }
+    },
+    "26.1": {
+      "sodium": {
+        "version": "mc26.1.1-0.8.9-fabric",
+        "slug": "sodium"
+      },
+      "iris": {
+        "version": "1.10.9+26.1-neoforge",
+        "slug": "iris"
+      }
     }
   }
 }
